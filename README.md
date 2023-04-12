@@ -1,2 +1,2 @@
-# Customer-Analysis-Dashboard
+# Customer-Sales-Analysis-Dashboard
 Tableau Dashboard
